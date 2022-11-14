@@ -155,7 +155,7 @@
     "vsce": "1.57.0",
     "vscode": "1.1.36",
     "webpack": "4.29.3",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "runtimeDependencies": [
     {
